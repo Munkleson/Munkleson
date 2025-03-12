@@ -1,6 +1,6 @@
 ## Hi there, I'm Alex ✌️
 
-I am a web developer and a recent graduate of the [Le Wagon Tokyo bootcamp](https://www.lewagon.com/tokyo).
+[I am a web developer](https://munkleson.github.io/my-portfolio/) and a recent graduate of the [Le Wagon Tokyo bootcamp](https://www.lewagon.com/tokyo).
 
 I am passionate about getting into the software engineering industry and creating apps to enhance user experience through quality of life innovations. I have a strong interest in front end technologies, and love JavaScript for all it can do to craft an interactive experience. Through the bootcamp, I also discovered my aptitude for back end technologies as well, and am highly adept at using Ruby on Rails and its front end partner Hotwire/Stimulus.
 
